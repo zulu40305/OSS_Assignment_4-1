@@ -1,0 +1,94 @@
+{
+  "friends": [
+    {
+      "id": "0.6771710631998014",
+      "name": "HongGildong",
+      "phonenumber": "000-1111-2222",
+      "birthday": "11/12",
+      "relation": "coworker",
+      "nationality": "Korea",
+      "city": "Seoul"
+    },
+    {
+      "id": "0.723255115250216",
+      "name": "Gwendolyn S. Page",
+      "phonenumber": "111-2222-3333",
+      "birthday": "01/23",
+      "relation": "business",
+      "nationality": "United States",
+      "city": "L.A"
+    },
+    {
+      "id": "0.6923424250485359",
+      "name": "Jamie Bird",
+      "phonenumber": "222-3333-4444",
+      "birthday": "03/21",
+      "relation": "friend",
+      "nationality": "United Kingdom",
+      "city": "London"
+    },
+    {
+      "id": "0.9989567260496963",
+      "name": "Arline R. McClurg",
+      "phonenumber": "000-9999-9999",
+      "birthday": "01/23",
+      "relation": "friend",
+      "nationality": "United States",
+      "city": "Washington D.C."
+    },
+    {
+      "id": "0.1998960984264604",
+      "name": "Ignat Shura",
+      "phonenumber": "000-1212-1212",
+      "birthday": "02/05",
+      "relation": "friend",
+      "nationality": "Russia",
+      "city": "Moskva"
+    },
+    {
+      "id": "0.8574603350640881",
+      "name": "Birk Finn",
+      "phonenumber": "000-1234-9876",
+      "birthday": "05/22",
+      "relation": "business",
+      "nationality": "German",
+      "city": "Frankfurt"
+    },
+    {
+      "id": "0.3410619330681841",
+      "name": "Sonya G. Epp",
+      "phonenumber": "785-8870-8367",
+      "birthday": "11/23",
+      "relation": "friend",
+      "nationality": "United States",
+      "city": "Huston"
+    },
+    {
+      "id": "0.33439259644919717",
+      "name": "Melanie E. Delaughter",
+      "phonenumber": "000-2931-4553",
+      "birthday": "08/12",
+      "relation": "coworker",
+      "nationality": "United Kingdom",
+      "city": "Manchester"
+    },
+    {
+      "id": "0.5122442323476524",
+      "name": "Ralph A. Henry",
+      "phonenumber": "000-8923-5673",
+      "birthday": "07/27",
+      "relation": "friend",
+      "nationality": "Sweden",
+      "city": "Stockholm"
+    },
+    {
+      "id": "0.5908670800497455",
+      "name": "Joseph G. Swayze",
+      "phonenumber": "000-1237-1294",
+      "birthday": "09/19",
+      "relation": "friend",
+      "nationality": "Italy",
+      "city": "Venezia"
+    }
+  ]
+}
